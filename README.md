@@ -4,8 +4,9 @@ Udemy Course
 [Github reference repo](https://github.com/StephenGrider/MongoCasts)
 
 1. [Setup MongoDB on windows](#windows-setup)
+2. [Promises reminder](https://github.com/jerostax/MongoDB_Guide/tree/master/promises)
 
-### 1 - Setup MongoDB on windows
+### 1 - Setup MongoDB on windows <a name='windows-setup'></a>
 
 - D'abord on installe le [mongoDB Installer](https://www.mongodb.com/download-center/community)
 - Ensuite on doit setup avec la [documentation d'aide](https://www.mongodb.com/download-center/community)
